@@ -1,0 +1,50 @@
+
+$ git --version
+
+
+$ mkdir vinay1
+
+$ cd vinay1
+
+$ git init
+
+
+
+lab12@DESKTOP-UD3KURO MINGW64 ~/vinay1 (master)
+$ git config --global user.name "vinay1"
+
+
+
+$ git config --global user.email "vinayt2805@gmail.com"
+
+$ touch vinay1
+
+$ notepad vinay1
+
+$ git add vinay1
+
+
+$ git commit -m "vinay1"
+
+
+$ git log
+
+
+$ git remote add origin https://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@github.com/vinay0520/vinay1
+
+$ git push -u origin master
+
+
+$ pwd
+
+
+$ ls
+
+
+
+$ git pull https://github.com/vinay0520/vinay1.git
+
+
+
+$ ls -a
+
